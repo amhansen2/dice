@@ -26,9 +26,9 @@ DICE addresses a common problem in data analysis—efficiently locating relevant
 - **Efficient Data Handling**: Uses Pandas and SQLAlchemy for fast and flexible query execution.
 
 ## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript (React for UI enhancements)
-- **Backend**: Python (Flask or FastAPI)
-- **Database**: PostgreSQL or SQLite
+- **Frontend**: React
+- **Backend**: Python FastAPI
+- **Database**: SQLite
 - **Data Processing**: Pandas, SQLAlchemy
 
 ## Setup Instructions
